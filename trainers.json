@@ -1,0 +1,89 @@
+{
+  "trainers": [
+    {
+      "id": "07cc0571-e634-4445-bb0a-c2196fe547be",
+      "name": "Tester McTesterson",
+      "pokemon": [
+        {
+          "name": "CROBAT",
+          "shiny": false,
+          "level": 18,
+          "sr": 13,
+          "proficiency_bonus": 6,
+          "gender": "Female",
+          "types": "Poison/Flying",
+          "size": "Medium",
+          "nature": "Rash (+1 Wis, -1 Cha)",
+          "ac": 17,
+          "hp": 192,
+          "speed": "Walking 15ft, Flying 40ft",
+          "senses": "Blindsight 120ft",
+          "ability_scores": "STR: 19 (+4)\nDEX: 20 (+5)\nCON: 16 (+3)\nINT: 7 (-2)\nWIS: 15 (+2)\nCHA: 7 (-2)",
+          "skills": "Stealth",
+          "saving_throws": "DEX, CON",
+          "vulnerabilities": [
+            "electric",
+            "ice",
+            "psychic",
+            "rock"
+          ],
+          "resistances": [
+            "bug",
+            "fairy",
+            "fighting",
+            "grass",
+            "poison"
+          ],
+          "immunities": [
+            "ground"
+          ],
+          "moves": [
+            "Wing Attack",
+            "Leech Life",
+            "Haze",
+            "Confuse Ray"
+          ],
+          "abilities": "Ability: Inner Focus - This Pokémon is immune to flinching.\n\nHidden Ability: Infiltrator - This Pokémon bypasses Light Screen, Reflect, Substitute, Mist, Safeguard, and Aurora Veil.\n",
+          "held_item": "None",
+          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+          "_id": 1
+        },
+        {
+          "name": "URSARING",
+          "shiny": false,
+          "level": 19,
+          "sr": 6,
+          "proficiency_bonus": 6,
+          "gender": "Female",
+          "types": "Normal",
+          "size": "Medium",
+          "nature": "Hasty (+1 Dex, -1 Con)",
+          "ac": 15,
+          "hp": 176,
+          "speed": "Walking 30ft, Climbing 25ft",
+          "senses": "",
+          "ability_scores": "STR: 17 (+3)\nDEX: 15 (+2)\nCON: 14 (+2)\nINT: 8 (-1)\nWIS: 13 (+1)\nCHA: 11 (+0)",
+          "skills": "Athletics",
+          "saving_throws": "STR",
+          "vulnerabilities": [
+            "fighting"
+          ],
+          "resistances": [],
+          "immunities": [
+            "ghost"
+          ],
+          "moves": [
+            "Scratch",
+            "Rest",
+            "Scary Face",
+            "Covet"
+          ],
+          "abilities": "Ability: Quick Feet - When suffering from a negative status condition, this Pokémon’s speed increases by 15 ft.\n\nHidden Ability: Unnerve - Opponents in combat with this Pokémon cannot eat held berries.\n",
+          "held_item": "None",
+          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+          "_id": 2
+        }
+      ]
+    }
+  ]
+}

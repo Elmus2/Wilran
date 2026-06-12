@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "testfakemon",
+      "name": "TestFakemon",
+      "number": 0,
+      "type": [
+        "ghost",
+        "rock"
+      ],
+      "size": "large",
+      "sr": 6.0,
+      "minLevel": 1,
+      "eggGroup": [
+        "undiscovered"
+      ],
+      "gender": "0:0",
+      "evolution": {
+        "stage": "1",
+        "maxStage": "3"
+      },
+      "description": "A custom Pokémon named TestFakemon.",
+      "ac": 16,
+      "hp": 17,
+      "hitDice": "d6",
+      "speed": [
+        {
+          "type": "walking",
+          "value": 30
+        },
+        {
+          "type": "flying",
+          "value": 10
+        }
+      ],
+      "senses": [
+        {
+          "type": "darkvision",
+          "value": 60
+        },
+        {
+          "type": "tremorsense",
+          "value": 60
+        }
+      ],
+      "attributes": {
+        "str": 10,
+        "dex": 10,
+        "con": 10,
+        "int": 10,
+        "wis": 10,
+        "cha": 10
+      },
+      "skills": [
+        "athletics",
+        "intimidation"
+      ],
+      "savingThrows": [
+        "str"
+      ],
+      "abilities": [
+        {
+          "id": "punk-rock",
+          "hidden": false
+        },
+        {
+          "id": "compound-eyes",
+          "hidden": false
+        },
+        {
+          "id": "bulletproof",
+          "hidden": true
+        }
+      ],
+      "moves": {
+        "start": [
+          "rock-smash"
+        ],
+        "level2": [
+          "rock-tomb"
+        ],
+        "level6": [
+          "bounce"
+        ],
+        "level10": [
+          "eruption"
+        ],
+        "level14": [],
+        "level18": [],
+        "egg": [],
+        "tm": [
+          24,
+          26
+        ]
+      },
+      "media": {
+        "main": "",
+        "sprite": "",
+        "mainShiny": "",
+        "spriteShiny": ""
+      }
+    }
+  ]
+}
